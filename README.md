@@ -107,6 +107,6 @@ This project is open-source and can be modified or distributed under the terms o
 
 ## Contact
 For any questions or support, please reach out:
-- Email: [your.email@example.com](mailto:nithinmamidi1423@gmail.com)
+- Email:(mailto:nithinmamidi1423@gmail.com)
 - LinkedIn: [www.linkedin.com/in/nithin-goud-mamidi-941025230](#)
 
